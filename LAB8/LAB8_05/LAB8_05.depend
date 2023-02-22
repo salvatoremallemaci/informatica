@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544874976 source:c:\users\salva\desktop\informatica\laboratorio informatica\lab8\lab8_05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

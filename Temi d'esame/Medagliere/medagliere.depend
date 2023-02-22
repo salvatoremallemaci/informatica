@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548079398 source:c:\users\salva\desktop\medagliere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1548457599 source:c:\users\salva\desktop\materiale\informatica\temidesame\medagliere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

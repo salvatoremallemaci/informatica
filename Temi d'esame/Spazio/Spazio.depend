@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548071207 source:c:\users\salva\desktop\spazio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+FILE *fp;
+char file[N];
+
+
+printf("Inserire nome del file da aprire:\n");
+    gets(file);
+    if ((fp = fopen(file,"r")) == NULL)
+    {
+        exit(1);  // errore irreversibile; file non apribile.
+    }

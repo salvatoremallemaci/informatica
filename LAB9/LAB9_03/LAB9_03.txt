@@ -1,0 +1,7 @@
+milano10parma13
+roma20torino21
+palermo12catania16
+parma10empoli16
+roma10milano11
+palermo20milano5
+torino10catania20

@@ -1,0 +1,7 @@
+torino 8.20 messina 9.50
+palermo 12.43 genova 23.56
+messina 12.00 palermo 15.00
+torino 13.00 milano 16.50
+palermo 18.43 firenze 21.32
+genova 12.12 palermo 17.59
+firenze 13.43 torino 17.12

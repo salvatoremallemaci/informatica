@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543602609 source:c:\users\salva\desktop\informatica\laboratorio informatica\lab6\lab6_05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

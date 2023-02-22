@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548947911 source:c:\users\salva\desktop\anomalie\main.c
+	<stdio.h>
+	<stdlib.h>
+

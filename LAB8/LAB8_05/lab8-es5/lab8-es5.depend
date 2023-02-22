@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1546465737 source:c:\users\salva\desktop\informatica\laboratorio informatica\lab10\lab8-es5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546466558 source:c:\users\salva\desktop\informatica\laboratorio informatica\lab8\lab8_05\lab8-es5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
